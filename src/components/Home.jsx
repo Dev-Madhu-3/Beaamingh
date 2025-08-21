@@ -2,7 +2,7 @@
 import { motion } from "framer-motion"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import AutoSlider from "./autoSlider"
+import AutoSlider from "./AutoSlider"
 
 const products = [
     { id: 1, name: "Organic Apples", price: "$5 / kg", img: "https://res.cloudinary.com/dpk6qsn0e/image/upload/v1755799597/2284261742533859_kddsja.png" },
